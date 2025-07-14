@@ -13231,7 +13231,7 @@ const BG = /* @__PURE__ */ ic(PG), $G = /* @__PURE__ */ _t({
       ]));
     };
   }
-}), ZG = { class: "chat-heading" }, WG = ["title"], JG = { key: 0 }, Tu = /* @__PURE__ */ _t({
+}), ZG = { class: "chat-heading" }, WG = [""], JG = { key: 0 }, Tu = /* @__PURE__ */ _t({
   __name: "Chat",
   setup(e) {
     const { t } = js(), n = ac(), { messages: s, currentSessionId: r } = n, { options: o } = ns(), c = nt(() => o.mode === "window" && o.showWindowCloseButton);
