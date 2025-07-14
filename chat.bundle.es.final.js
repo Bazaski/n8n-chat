@@ -4329,14 +4329,6 @@ const On = {
   defaultLanguage: "en",
   showWelcomeScreen: !1,
   initialMessages: ["Hi there! 👋", "My name is Nathan. How can I assist you today?"],
-  i18n: {
-    en: {
-      subtitle: "",
-      footer: "",
-      getStarted: "New Conversation",
-      inputPlaceholder: "Type your question..",
-      closeButtonTooltip: "Close chat"
-    }
   },
   theme: {}
 }, Td = "#n8n-chat", Rd = "n8n-chat", di = `${Rd}/sessionId`, Yl = "Chat", Xl = "ChatOptions";
